@@ -1,5 +1,5 @@
 # Nuno Zilhão
-Genetic analyst (currently post-doc) with experience in analyzing large-scale genetic data for a wide range of diseases as well as managing an infrasctructure or downstream analysis. 
+Genetic analyst (currently post-doc) with experience in analyzing large-scale genetic data for a wide range of diseases, as well as managing an infrasctructure for downstream analysis. 
 
 ## Expertise
 < Explain in 250 words what makes you an exceptional bioinformatician >
