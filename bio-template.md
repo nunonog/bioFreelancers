@@ -1,6 +1,5 @@
-# <Your Name>
-< 2-3 sentence description of who you are >
-< contact information >
+# <Nuno Zilhão>
+Genetic analyst (currently post-doc) with experience in analyzing large-scale genetic data for a wide range of diseases as well as managing an infrasctructure or downstream analysis. 
 
 ## Expertise
 < Explain in 250 words what makes you an exceptional bioinformatician >
